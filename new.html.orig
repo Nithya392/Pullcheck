@@ -6,8 +6,12 @@
 <body>
     <h1>Hello, HTML!</h1>
     <p>This is a basic HTML page.</p>
-  <a href="https://example.com">Go to Example</a>
+<<<<<<< HEAD
+    <a href="https://example.com">Go to Example</a>
+=======
     <p>Containg only basic tags.</p>
+
+>>>>>>> B2
 </body>
 </html>
 
